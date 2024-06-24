@@ -7,3 +7,5 @@ To summarize, if you integrate the Safacil Pay API on your website, you will hav
 <h5>1 - SAFACIL PAY</h5> <br>
 <h5>2 - MONCASH</h5> <br>
 <h5>3 - USDT TRC20</h5> <br>
+
+DOCUMENTATION : https://safacil.readme.io/
